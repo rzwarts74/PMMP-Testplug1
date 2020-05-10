@@ -1,8 +1,7 @@
 <?php
 
 /*
-Created by AmmyCoding
-Twitter: @AmmyR
+Created by Zwarts Development
 */
 
 namespace rzwarts74\TestPlugin;
